@@ -1,2 +1,0 @@
-# baje
-img
